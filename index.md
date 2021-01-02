@@ -16,8 +16,8 @@ USE OF YOUR INFORMATION
 
 Having access to your mobile device’s camera and gallery features permits us to provide you with a smooth and efficient experience. Specifically, granting access to the above features allows the application to: 
 
-1.	Take a picture of your stool, classify it and alert you of your risk of colorectal cancer.
-2.	Save the picture to your mobile device’s gallery.
+1.	Take a photo of your stool, classify it and alert you if there is blood in your stool.
+2.	Save the photo to your mobile device’s gallery.
 
 DISCLOSURE OF YOUR INFORMATION
 
